@@ -27,3 +27,4 @@ DOMAIN-SUFFIX,ghp.ci
 
 #DUCKY
 DOMAIN-SUFFIX,duckyci.com
+DOMAIN-SUFFIX,api.duckyci.com
