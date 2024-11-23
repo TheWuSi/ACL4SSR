@@ -18,3 +18,12 @@ DOMAIN-SUFFIX,zhixi.com
 
 #winos.me
 DOMAIN-SUFFIX,winos.me
+
+#jebrains
+DOMAIN-SUFFIX,download-cdn.jetbrains.com
+
+#github加速
+DOMAIN-SUFFIX,ghp.ci
+
+#DUCKY
+DOMAIN-SUFFIX,duckyci.com
