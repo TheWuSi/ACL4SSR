@@ -43,6 +43,7 @@ dns:
     - "*.msftncsi.com"
     - "localhost.sec.qq.com"
     - "localhost.work.weixin.qq.com"
+    - "localhost.weixin.qq.com"
   default-nameserver:
     - 114.114.114.114
     - 114.114.115.115
